@@ -1,0 +1,13 @@
+C:\Users\Даниил\Desktop\UI_C#\UI\UI\bin\Release\UI.exe.config
+C:\Users\Даниил\Desktop\UI_C#\UI\UI\bin\Release\UI.exe
+C:\Users\Даниил\Desktop\UI_C#\UI\UI\bin\Release\UI.pdb
+C:\Users\Даниил\Desktop\UI_C#\UI\UI\bin\Release\MetroFramework.dll
+C:\Users\Даниил\Desktop\UI_C#\UI\UI\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Даниил\Desktop\UI_C#\UI\UI\obj\Release\UI.csproj.AssemblyReference.cache
+C:\Users\Даниил\Desktop\UI_C#\UI\UI\obj\Release\UI.Form1.resources
+C:\Users\Даниил\Desktop\UI_C#\UI\UI\obj\Release\UI.Properties.Resources.resources
+C:\Users\Даниил\Desktop\UI_C#\UI\UI\obj\Release\UI.csproj.GenerateResource.cache
+C:\Users\Даниил\Desktop\UI_C#\UI\UI\obj\Release\UI.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\Desktop\UI_C#\UI\UI\obj\Release\UI.csproj.CopyComplete
+C:\Users\Даниил\Desktop\UI_C#\UI\UI\obj\Release\UI.exe
+C:\Users\Даниил\Desktop\UI_C#\UI\UI\obj\Release\UI.pdb

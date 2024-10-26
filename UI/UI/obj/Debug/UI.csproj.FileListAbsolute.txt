@@ -1,0 +1,13 @@
+C:\Users\Даниил\Desktop\UI_C#\UI\UI\bin\Debug\UI.exe.config
+C:\Users\Даниил\Desktop\UI_C#\UI\UI\bin\Debug\UI.exe
+C:\Users\Даниил\Desktop\UI_C#\UI\UI\bin\Debug\UI.pdb
+C:\Users\Даниил\Desktop\UI_C#\UI\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\Даниил\Desktop\UI_C#\UI\UI\obj\Debug\UI.Form1.resources
+C:\Users\Даниил\Desktop\UI_C#\UI\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\Даниил\Desktop\UI_C#\UI\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\Даниил\Desktop\UI_C#\UI\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\Desktop\UI_C#\UI\UI\obj\Debug\UI.exe
+C:\Users\Даниил\Desktop\UI_C#\UI\UI\obj\Debug\UI.pdb
+C:\Users\Даниил\Desktop\UI_C#\UI\UI\bin\Debug\MetroFramework.dll
+C:\Users\Даниил\Desktop\UI_C#\UI\UI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Даниил\Desktop\UI_C#\UI\UI\obj\Debug\UI.csproj.CopyComplete
